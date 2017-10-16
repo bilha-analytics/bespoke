@@ -1,2 +1,3 @@
 file 2
 file 2 - this is an appended text
+yet another update
